@@ -1,12 +1,20 @@
 # 🧮 Calculator App
 
-A modern responsive calculator built using HTML, CSS, and JavaScript.
+A modern, responsive calculator built using **HTML**, **CSS**, and **JavaScript**.
 
-This project demonstrates DOM manipulation, event handling, and basic mathematical operations in JavaScript.
+This project demonstrates DOM manipulation, event handling, and JavaScript arithmetic operations through a clean and user-friendly calculator interface.
+
+---
 
 ## 🚀 Live Demo
 
-(Add your deployed link here)
+👉 Add your deployed link here (GitHub Pages or Netlify)
+
+Example:
+
+https://yourusername.github.io/calculator-app/
+
+---
 
 ## 📸 Screenshot
 
@@ -16,16 +24,17 @@ This project demonstrates DOM manipulation, event handling, and basic mathematic
 
 ## ✨ Features
 
-- Addition (+)
-- Subtraction (-)
-- Multiplication (×)
-- Division (÷)
-- Percentage calculations (%)
-- Decimal number support
-- Clear all (AC) button
-- Delete last input (DEL) button
-- Responsive modern user interface
-- Real-time display updates
+- ➕ Addition (+)
+- ➖ Subtraction (-)
+- ✖️ Multiplication (×)
+- ➗ Division (÷)
+- 🧮 Modulus / Remainder operation (%)
+- 🔢 Decimal number support
+- 🧹 Clear All (AC)
+- ⌫ Delete last character (DEL)
+- 📱 Responsive design
+- ⚡ Real-time display updates
+- 🎨 Clean and modern user interface
 
 ---
 
@@ -33,8 +42,23 @@ This project demonstrates DOM manipulation, event handling, and basic mathematic
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6)
 
 ---
 
 ## 📂 Project Structure
+
+```
+calculator-app/
+│── index.html
+│── README.md
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── screenshots/
+    └── calculator.png
+```
